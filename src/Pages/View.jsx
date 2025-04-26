@@ -2292,7 +2292,7 @@ const View = () => {
                   }}
                 >
                   <a
-                    href="https://drive.google.com/file/d/1cvhI2xHakkFMpaXcuwvW8y6SxDWVubHD/view?usp=sharing"
+                    href="https://drive.google.com/file/d/10VFBIsLN-LEiHYacn2ORRZ7hgZZqSfVQ/view?usp=sharing"
                     target="_blank"
                     style={{
                       color: "rgb(85, 85, 85)",
@@ -2384,7 +2384,7 @@ const View = () => {
                     }}
                   >
                     <a
-                      href="https://drive.google.com/file/d/1cvhI2xHakkFMpaXcuwvW8y6SxDWVubHD/view?usp=sharing"
+                      href="https://drive.google.com/file/d/10VFBIsLN-LEiHYacn2ORRZ7hgZZqSfVQ/view?usp=sharing"
                       style={{
                         color: "rgb(85, 85, 85)",
                         textDecoration: "none solid rgb(85, 85, 85)",
